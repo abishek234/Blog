@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
-  "author": "ABISHEK",
+  "author": "ABISHEK T", 
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.1432.0",
